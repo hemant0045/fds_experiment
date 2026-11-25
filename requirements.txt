@@ -4,4 +4,7 @@ pandas
 matplotlib
 seaborn
 sciket-learn
-
+streamlit
+fastapi
+uvicorn
+plotly
